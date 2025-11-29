@@ -1,7 +1,7 @@
 
 """
 Title: Gradebook Analyzer
-Author: <Your Name>
+Author: Kirtika Khowal
 Date: 2025-11-23
 Description: CLI tool for entering/loading student marks, analyzing statistics,
 assigning grades, and displaying results.
@@ -155,3 +155,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
